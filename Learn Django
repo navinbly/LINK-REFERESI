@@ -1,0 +1,36 @@
+------------------------instalasi Njango & set up python di linux---------------------------- 	
+1. Bahasa Pemrogramman python
+2. OOP di python
+
+
+------------------------Belajar Website-------------------
+1. Basic HTML, CSS & JavaScript
+2. Bootstrap
+
+
+----------------------link configurasi & belajar django--------------------------
+1. https://www.youtube.com/watch?v=7dMSrLHEloo&list=PLZS-MHyEIRo6p_RwsWntxMO5QAqIHHHld&index=3
+
+
+------------------Langkah2 instalasi dan configurasi django-----------------------
+1. django-admin startproject mywebsite
+2. python manage.py runserver
+3. python manage.py startapp blog ->  
+
+
+------------------link belajar website python with django--------------------------
+1. https://www.guru99.com/python-tutorials.html
+
+
+------------------link belajar python-------------------------------------
+1. https://www.tutorialspoint.com/python/index.htm
+
+
+-------------------keluar dari enviromen----------------------------------
+1. deactivate
+2. source ../Env/bin/activate -> masuk Environmen django
+
+------------------LEARN GITHUB-------------------------------
+1. https://github.com/kamranahmedse/developer-roadmap
+
+

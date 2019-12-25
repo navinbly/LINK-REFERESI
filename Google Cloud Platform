@@ -1,0 +1,50 @@
+google cloud Platform
+
+1. Buka terminal yang sudah terinstal Cloud SDK atau gunakan Cloud Shell, lalu jalankan perintah:
+   
+	 - gcloud projects create project_id
+
+2. Perlu diingat bahwa project_id ini haruslah unik.
+   Selanjutnya untuk memastikan bahwa project Anda sudah terbuat, jalankan perintah:
+    
+	- gcloud projects list
+
+3. Untuk melihat detail dari project yang Anda buat, jalankan perintah:
+
+	-gcloud projects describe project_id
+
+4. Terminal akan menampilkan detail informasi dari project Anda seperti nama project, project id, dan project number.
+   Secara default, nama project akan sama dengan project_id yang telah dibuat. Untuk mengubahnya Anda bisa menggunakan perintah:
+
+	- gcloud projects update project_id --name=project_name
+
+5. Terakhir mari arahkan terminal untuk menggunakan project yang baru saja kita buat menjadi default project. Untuk melakukannya, jalankan perintah:
+
+	-gcloud config set project project_id
+
+
+google cloud platform pricing kalkulator & dashbord GCP & Microsoft azure
+	
+	- https://cloud.google.com/products/calculator/
+	- https://console.cloud.google.com/home/dashboard?project=learned-cosine-261902&folder=&organizationId=&cloudshell=true
+	- https://azure.microsoft.com/en-us/ 
+
+
+
+Cloud Compute Solutions
+
+Layanan komputasi merupakan komponen terpenting dalam menjalankan sebuah aplikasi. Setiap aplikasi memerlukan mesin yang memproses dan menjalankan programnya. Google Cloud Platform menyediakan beberapa opsi layanan komputasi yang bisa digunakan sesuai dengan kebutuhan. Pada modul ini kita akan mempelajari layanan-layanan komputasi dari GCP tersebut, antara lain:
+
+1.  Google Compute Engine (GCE).
+    	Virtual Machines (VM) yang berjalan pada jaringan data center Google. Digunakan bagi Anda yang memerlukan kontrol penuh atas infrastruktur 		yang digunakan dan konfigurasi yang spesifik.
+2.  Google Kubernetes Engine (GKE).
+    	Layanan Kubernetes terkelola yang berfungsi untuk mengatur Docker containers. GKE memungkinkan Anda mengembangkan aplikasi container pada 		cluster server.
+3.  Google App Engine (GAE).
+  	Opsi Platform as a Service (PaaS) yang membuat Anda bisa fokus dalam pengembangan aplikasi tanpa perlu memikirkan infrastruktur yang 		menjalankan aplikasi Anda.
+4.  Google Cloud Functions (GCF).
+    	Model serverless yang mampu menjalankan fungsi logika aplikasi sesuai dengan permintaan secara cepat, dan tanpa pengaturan infrastruktur.
+
+google Studio
+	- https://datastudio.google.com/u/0/navigation/reporting
+
+

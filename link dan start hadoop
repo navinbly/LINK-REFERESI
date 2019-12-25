@@ -1,0 +1,39 @@
+-----------------------------INSTALL HADOOP-------------------------------
+1. link install hadoop : https://www.youtube.com/watch?v=GNnt6L3AsDU
+2. link configuration  : https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-common/SingleCluster.html
+
+
+-------------------------------START HADOOP-------------------------------
+1. start hadoop     : 1. sbin/start-yarn.sh
+	              2. sbin/start-dfs.sh
+2. open hadoop 	    : localhost	:8088
+3. open namenode    : localhost	:
+
+
+------------------------------keluar dari environmen anak conda-------------------------
+1. conda deactivate
+
+
+----------------------LINK BELAJAR HADOOP BIG DATA-------------------------
+1. http://www.teknologi-bigdata.com/2016/09/penerapan-model-pemrograman-mapreduce-java-mongodb-mutual-friends-facebook.html
+
+
+-------------------------------LINK BELAJAR GIG DATA-----------------------
+1. https://www.guru99.com/bigdata-tutorials.html
+
+
+------------------------UPDATE UBUNTU--------------------------------------
+1. sudo gedit /etc/apt/sources.list
+2. sudo apt update
+3. sudo apt dist-upgrade 
+4. lsb_release -a
+
+
+--------------------------PASSWORD PHP MYADMIN-------------------------------
+username	: root
+password	: 123
+
+
+--------------------------LINK NOVELTY JURNAL TA-----------------------------
+1. http://sinta2.ristekdikti.go.id/journals
+2. 
